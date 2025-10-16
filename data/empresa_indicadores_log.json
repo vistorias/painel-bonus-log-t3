@@ -1,0 +1,35 @@
+{
+  "JULHO": {
+    "financeiro": true,
+    "qualidade": false,
+    "producao_por_cidade": {
+      "SÃO LUIS": true,
+      "TIMON": true,
+      "PRESIDENTE DUTRA": true,
+      "AÇAILÂNDIA": true,
+      "CAROLINA": false
+    }
+  },
+  "AGOSTO": {
+    "financeiro": false,
+    "qualidade": false,
+    "producao_por_cidade": {
+      "SÃO LUIS": false,
+      "TIMON": true,
+      "PRESIDENTE DUTRA": false,
+      "AÇAILÂNDIA": true,
+      "CAROLINA": false
+    }
+  },
+  "SETEMBRO": {
+    "financeiro": true,
+    "qualidade": false,
+    "producao_por_cidade": {
+      "SÃO LUIS": true,
+      "TIMON": true,
+      "PRESIDENTE DUTRA": true,
+      "AÇAILÂNDIA": true,
+      "CAROLINA": false
+    }
+  }
+}
