@@ -1,16 +1,4 @@
 {
-  "GERENTE": {
-    "total": 3000,
-    "metas": {
-      "Produção": 0.15,
-      "Vistorias de 190,00": 0.10,
-      "Pesquisa de Satisfação": 0.05,
-      "Liderança & Organização": 0.05,
-      "Recursos Humanos": 0.05,
-      "Lucratividade": 0.25,
-      "Qualidade": 0.35
-    }
-  },
   "SUPERVISOR": {
     "total": 800,
     "metas": {
