@@ -40,5 +40,5 @@
       "Adesão Pesquisa de Clima": 0.10
     }
   },
-  "_funcoes_excluidas": ["ANALISTA", "SUPERVISOR ANÁLISE"]
+  "_funcoes_excluidas": ["ANALISTA", "SUPERVISOR ANÁLISE", "GERENTE"]
 }
